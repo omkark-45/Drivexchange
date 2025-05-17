@@ -85,5 +85,5 @@ public class Transaction {
 				+ totalAmount + ", installmentOption=" + installmentOption + "]";
 	}
     
-    
+    //the end
 }

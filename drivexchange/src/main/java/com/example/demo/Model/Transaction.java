@@ -84,6 +84,6 @@ public class Transaction {
 				+ car + ", paymentStatus=" + paymentStatus + ", paymentDate=" + paymentDate + ", totalAmount="
 				+ totalAmount + ", installmentOption=" + installmentOption + "]";
 	}
-    
+    //
     
 }
